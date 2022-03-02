@@ -23,15 +23,13 @@
 #### we got the avg percent value for each one, then we got the CG content: [len(C) + len(G)]/len(seq)  *100
 #### We’ve done this for the consensus / representative sequence for the reference ones and for all of the case sequences.
 ### From The Chemical Constituents:
+### For Delta Sequences:
 ![2022-03-02 (1)](https://user-images.githubusercontent.com/61421659/156402041-a3626f07-104b-462a-900e-ec157bba8291.png)
-![2022-03-02 (3)](https://user-images.githubusercontent.com/61421659/156401129-c44fff31-88d3-494c-b076-214e641bb566.png)
-
 ![2022-03-02 (4)](https://user-images.githubusercontent.com/61421659/156402158-f30da56f-f194-496f-a569-2f647fbd2e4b.png)
+### For Omicron Sequences:
+![2022-03-02 (3)](https://user-images.githubusercontent.com/61421659/156401129-c44fff31-88d3-494c-b076-214e641bb566.png)
 ![2022-03-02 (5)](https://user-images.githubusercontent.com/61421659/156402513-71de48d5-907d-4829-95e5-0e1dd4398928.png)
-
 #### We found out here that a insignificant mutation occurs in Omicron sequences resulting in different average percent for each nucleotide.
-
-
 
 ## F. Extracting the dissimilar regions
 #### • Apply MSL technique: We applied the multiple sequence alignment on the 10 aligned omicron sequences with the representative one, then we separated the omicron sequences from the representative one.
