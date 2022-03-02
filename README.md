@@ -39,3 +39,8 @@
 #### • The dissimilar regions/columns state that at each index the case ones have the same or almost the same nucleotide but different from the representative one.
 #### • We implemented a function which returns a dictionary containing the index at which the most dissimilarities occur. The function takes a third a parameter which is the percentage of the alignment the user can choose → A threshold percentage for the dissimilarities
 #### • We generated a csv excel file containing the index and the dissimilar region.
+
+### From The dissimilar regions:
+![2022-03-02 (6)](https://user-images.githubusercontent.com/61421659/156403096-27102149-b21a-424a-8212-7d8b2ce775ee.png)
+#### When we extracted the regions, we noticed that it contains only 694 dissimilar regions/columns of nearly 30,000 nucleotides.
+
