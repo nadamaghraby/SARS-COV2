@@ -14,6 +14,8 @@
 ## D. The Phylogenetic tree
 #### • Generating a fasta file: we merged all the above 20 sequences together in a single fasta file using Bio python. 
 #### • MSL for all sequences: Then we applied a multiple sequence alignment on them using mega software, then we built the phylogenetic tree on them by neighbor joining using the same software.
+![2022-03-02](https://user-images.githubusercontent.com/61421659/156399491-9423bdbc-0e35-4ff5-a1cc-b652d18d1545.png)
+
 ## E. Average Percentage of Chemical Constituents
 #### -We calculated the average percentage of the chemical constituents using: Bio python→ reading the fasta file using → SeqIO.parse() and re. findall () → returns the length of each chemical constituent in the whole sequence
 #### -For every sequence: We used the re function to get the average: len(nucleotide)/len(seq) *100
