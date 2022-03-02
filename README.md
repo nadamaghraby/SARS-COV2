@@ -22,8 +22,14 @@
 #### -For every sequence: We used the re function to get the average: len(nucleotide)/len(seq) *100
 #### we got the avg percent value for each one, then we got the CG content: [len(C) + len(G)]/len(seq)  *100
 #### We’ve done this for the consensus / representative sequence for the reference ones and for all of the case sequences.
-![2022-03-02 (1)](https://user-images.githubusercontent.com/61421659/156400838-c46d247a-45e1-4045-98c4-1c0abe6dc1d3.png)
+### From The Chemical Constituents:
+![2022-03-02 (1)](https://user-images.githubusercontent.com/61421659/156402041-a3626f07-104b-462a-900e-ec157bba8291.png)
 ![2022-03-02 (3)](https://user-images.githubusercontent.com/61421659/156401129-c44fff31-88d3-494c-b076-214e641bb566.png)
+
+![2022-03-02 (4)](https://user-images.githubusercontent.com/61421659/156402158-f30da56f-f194-496f-a569-2f647fbd2e4b.png)
+![2022-03-02 (5)](https://user-images.githubusercontent.com/61421659/156402513-71de48d5-907d-4829-95e5-0e1dd4398928.png)
+
+#### We found out here that a insignificant mutation occurs in Omicron sequences resulting in different average percent for each nucleotide.
 
 
 
